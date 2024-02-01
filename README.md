@@ -1,2 +1,2 @@
 # DSA-Codes
-All DSA Practice codes
+All Custom DSA codes
